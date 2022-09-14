@@ -1,0 +1,8 @@
+C:\temp\ws-vs19\imc2\imc2\bin\Debug\imc2.exe.config
+C:\temp\ws-vs19\imc2\imc2\bin\Debug\imc2.exe
+C:\temp\ws-vs19\imc2\imc2\bin\Debug\imc2.pdb
+C:\temp\ws-vs19\imc2\imc2\obj\Debug\imc2.csproj.AssemblyReference.cache
+C:\temp\ws-vs19\imc2\imc2\obj\Debug\imc2.csproj.SuggestedBindingRedirects.cache
+C:\temp\ws-vs19\imc2\imc2\obj\Debug\imc2.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs19\imc2\imc2\obj\Debug\imc2.exe
+C:\temp\ws-vs19\imc2\imc2\obj\Debug\imc2.pdb
